@@ -224,6 +224,6 @@ vaccination_map3
 ```
 
 ```{r}
-#You now have a map prepared. I zoomed out until the map looked the way I wanted it for the external use then took a screenshot.
+#I zoomed out until the map looked the way I wanted it for the external use then took a screenshot.
 ```
 
